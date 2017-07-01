@@ -1,0 +1,20 @@
+name: RangSystem
+main: RangSystem.RangSystem
+version: 1.0.0.0
+description: RangSystem
+authors: [Jonix14, Dommereturns]
+
+commands:
+permissions:
+    server.owner:
+        default: false
+    server.moderator:
+        default: false
+    server.supporter:
+        default: false
+    server.emerald:
+        default: false
+    server.diamond:
+        default: false
+    server.gold:
+        default: false
